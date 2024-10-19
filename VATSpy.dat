@@ -17938,7 +17938,7 @@ BIRD-W|Reykjavik ACC (West) - Reykjavik|BIRD_W3|BIRD-W
 BSW|Black Sea West Radar||BSW
 CZEG|Edmonton|EDM|CZEG
 CZEG|Edmonton|ZEG|CZEG
-CZQM|Moncton|MCN|CZQM
+CZQM|Moncton||CZQM
 CZZV|Sept-Iles (CZUL SFC-280 / CZQM 290-ABV)||CZZV
 CZQX|Gander||CZQX
 CZQO|Gander Oceanic||CZQO
@@ -18264,8 +18264,7 @@ LPPC-I|Lisboa - MADEIRA Sector|LPPC_I|LPPC-I
 LPPC-N|Lisboa - NORTH Sector|LPPC_N|LPPC-N
 LPPC-C|Lisboa - CENTRE Sector|LPPC_C|LPPC-C
 LPPC-S|Lisboa - SOUTH Sector|LPPC_S|LPPC-S
-LPPO|Santa Maria|LPAZ|LPPO
-LPPO-TMA|Santa Maria Radar|LPPO|LPPO-TMA
+LPPO|Santa Maria||LPPO
 LPAM|Lisboa Military||LPPC
 LQSB|Sarajevo|LQSA|LQSB
 LRBB|Bucharest||LRBB
